@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Sketch UP] Sketch Up 정보 모음  
+title: Sketch Up 정보 모음  
 date: 2016-08-04 08:50:40 +0900  
 categories: sketch up update
 tag: sketchUp Graphic
