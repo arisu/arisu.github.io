@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "PLSQL Developer 설치하기"
+title:  PLSQL Developer 설치하기
 date:   2016-08-02 11:21:40 +0900
 categories: jekyll update
 ---
 
-PLSQL Developer 설치하기
-=================================
+윈도우에서 PLSQL Developer 설치 방법 정리. Oracle Client
+
 
 Oracle Client 설치
 --------------------

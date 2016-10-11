@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "[Jekyll] 윈도우에서 동작시키기. 3.2.0 -> 3.1.6 (Portable 포함)"
+title:  [Jekyll] 윈도우에서 동작시키기. 3.2.0 -> 3.1.6 (Portable 포함)
 date:   2016-08-02 09:21:40 +0900
 categories: jekyll update
 ---
 
-Jekyll 설치하기
------------------
+윈도우에서 Jekyll 설치하는 방법을 정리합니다. 
+
 
 ### 설치
 

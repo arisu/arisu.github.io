@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "[Jekyll] 당장 시작하기"
+title:  [Jekyll] 당장 시작하기
 date:   2016-08-02 09:21:40 +0900
 categories: jekyll update
 tag: jekyll Now github 초보자 
 ---
 
 Jekyll 당장 시작하기
-=======================
+
 
 Jekyll Now를 사용하여 github에서 페이지를 만들어 사용하는 방법.
 

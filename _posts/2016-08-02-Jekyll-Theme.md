@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "[Jekyll] Theme 적용하기"
+title:  [Jekyll] Theme 적용하기
 date:   2016-08-02 09:21:40 +0900
 categories: jekyll update
 ---
 
 Jekyll Theme 적용하기
-=======================
+
 
 [jekyllthemes.org](http://jekyllthemes.org)
 
